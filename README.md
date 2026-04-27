@@ -1,7 +1,8 @@
 # Imagination & AI Art Competition — Starts 24.04!
 ## [Topic]: The Origin of the World
-Think of your own theory that explains the existence of the world, and visualize it using generative AI.  
-Your submission must include:  
+Think of your own theory that explains the existence of the world, and visualize it using generative AI.
+
+Your submission must include:
 - a text file describing your theory (recommended around 100 words)
 - an AI-generated image that illustrates it
 ## [Rules]
